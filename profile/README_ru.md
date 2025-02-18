@@ -1,3 +1,5 @@
+[EN](README.md) [RU](README_ru.md)
+
 # Crypto Quest
 
 🚀 Добро пожаловать в официальный GitHub Crypto Quest!
